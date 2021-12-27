@@ -41,7 +41,7 @@ O dataset explorado neste projeto foi coletado no dia 20/12/2021.
 *    Qual a quantidade de usuários que não realizam empréstimos a mais de 1 ano (lembrando que o tempo do dataset é o de 2016)
 *    Qual é a média de empréstimos realizados,  por ano de cada tipo de usuário? 
 *    Há uma correlação entre o número de empréstimos e de renovações? 
-*     
+
 
 
 ## Considerações finais
