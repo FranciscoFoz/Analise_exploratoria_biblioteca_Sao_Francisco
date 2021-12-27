@@ -27,7 +27,6 @@ Encontrei esse conjuntos inicialmente no [Kaggle](https://www.kaggle.com/datasf/
 
 O conjunto de dados inclui aproximadamente 420.000 registros, com cada registro representando um usuário anônimo da biblioteca. As colunas individuais incluem estatísticas sobre o código de tipo e idade do usuário, o ano em que o usuário se registrou (somente desde 2003) e a intensidade com que o usuário tem utilizado o sistema de biblioteca (em termos de número de checkouts) desde o primeiro registro (Resumo extraído do Kaggle). 
 
-O dataset explorado neste projeto foi coletado no dia 20/12/2021.
 
 ### Questionamentos:
 *    Quais são e como estão distribuídos os tipos de usuários?
