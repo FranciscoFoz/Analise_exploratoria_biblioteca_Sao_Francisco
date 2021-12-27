@@ -17,13 +17,13 @@ Neste repositório você encontrará o projeto do meu [artigo]()
 
 ## Resumo
 A análise exploratória de dados é uma abordagem utilizada para se conhecer os dados a se trabalhar. 
-A partir da limpeza, conhecimento das variáveis, resumos das principais características estatísticas e visualizações, pode-se responder algumas perguntas básicas e deixar o conjunto pronto análises mais profundas.
+A partir da limpeza, conhecimento das variáveis, resumos das principais características estatísticas e visualizações, pode-se responder algumas perguntas básicas e deixar o conjunto pronto para análises mais profundas.
 
 Este projeto tem como objetivo principal realizar uma **análise exploratória** do conjunto de dados do sistema de bibliotecas de São Francisco. 
 
 ### Dataset
 
-Encontrei esse conjuntos incialmente no [Kaggle](https://www.kaggle.com/datasf/sf-library-usage-data?select=Library_Usage.csv), mas estarei utilizando os dados do [Portal de dados da cidade](https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup).
+Encontrei esse conjuntos inicialmente no [Kaggle](https://www.kaggle.com/datasf/sf-library-usage-data?select=Library_Usage.csv), mas estarei utilizando os dados do [Portal de dados da cidade de São Francisco](https://data.sfgov.org/Culture-and-Recreation/Library-Usage/qzz6-2jup).
 
 O conjunto de dados inclui aproximadamente 420.000 registros, com cada registro representando um usuário anônimo da biblioteca. As colunas individuais incluem estatísticas sobre o código de tipo e idade do usuário, o ano em que o usuário se registrou (somente desde 2003) e a intensidade com que o usuário tem utilizado o sistema de biblioteca (em termos de número de checkouts) desde o primeiro registro (Resumo extraído do Kaggle). 
 
@@ -45,8 +45,5 @@ O dataset explorado neste projeto foi coletado no dia 20/12/2021.
 
 
 ## Considerações finais
-
-Criar visualizações de dados não é uma tarefa simples e está ligada ao storytelling da análise.
-Deve-se sempre averiguar o contexto do público destinado, ser objetivo, claro e simples nas informações a serem passadas.
 
 
