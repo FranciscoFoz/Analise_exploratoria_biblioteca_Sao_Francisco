@@ -33,20 +33,26 @@ Vocês poderão acessar os dados utilizados nesta análise [aqui](https://drive.
 
 
 ### Questionamentos:
-*    Quais são e como estão distribuídos os tipos de usuários?
-*    Quais são e como estão distribuídos as faixas etárias dos usuários? 
-*    Quantos empréstimos foram realizados? Por tipo de usuário, faixa etária e por biblioteca.
-*    Quantas renovações foram realizados? Por tipo de usuário, faixa etária e por biblioteca.
-*    Qual a distribuição de tipo de usuários por tipo de recebimento de avisos?
-*    Quem são os usuários que não fornecem endereço de e-mails? Quem sãos os que fornecem? 
+*    Quais são e qual a quantidade de usuários por tipo?
+*    Quais são e qual a quantidade de usuários por faixa etária?
+*    Quais são as bibliotecas e qual a quantidade de usuários  por bibliotecas?
+*    Quantos empréstimos foram realizados? Por tipo de usuário e por biblioteca.
+*    Quantas renovações foram realizadas? Por tipo de usuário e por biblioteca.
+*    Quais são os tipos de recebimento de aviso? Qual a quantidade de usuários que preferem cada tipo? Quais são os tipos de usuários que preferem cada tipo?
+*    Como está distribuída a frequencia de usuários que fornecem endereço de email? Quem são os usuários que não fornecem? 
 *    Qual a quantidade de usuários que não são de São Francisco?
-*    Quantos novos usuários foram entrando a cada ano?
-*    Qual a quantidade de usuários que não realizam empréstimos a mais de 1 ano (lembrando que o tempo do dataset é o de 2016)
-*    Qual é a média de empréstimos realizados,  por ano de cada tipo de usuário? 
-*    Há uma correlação entre o número de empréstimos e de renovações? 
+*    Qual a quantidade de usuários que não realizam empréstimos a mais de 1 ano?
+*    Qual a distribuição da quantidade média de empréstimos realizados por ano por tipo de usuário?
+*    Há uma correlação entre o número de empréstimos e de renovações?
+
 
 
 
 ## Considerações finais
 
+A análise exploratória é uma fase importante e inicial em um projeto de ciência de dados. Com ela é possível entender melhor os dados para se responder alguns questionamentos e preparar eles para análises e questionamentos mais aprofundados.
 
+Pude responder todos os questionamentos estabelecidos no início do projeto, entretanto a relação entre faixa etária e tipo de usuários ficou sem respostas, devido a sua falta de coerência.
+
+
+Esta análise apenas deu o primeiro passo e fica aberto para outras pessoas estabelecerem novas perspectivas baseadas nesta.
