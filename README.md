@@ -1,7 +1,7 @@
 # Sistema integrado das bibliotecas de São Francisco: Uma análise exploratória dos dados
 
 <p align="center"> 
-<img src="https://farm3.staticflickr.com/2753/4261060969_df1c923d5a_z.jpg?zz=1"></a> 
+<img src="https://cdn.vox-cdn.com/thumbor/ACMFacaANxBvqsRvN-Ps3WgG_Z8=/0x0:4221x2814/970x728/filters:focal(1774x1070:2448x1744):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/62631916/14260954879_6846eafd66_o.0.jpg"></a> 
 </p>
 
 [Fonte](https://thewandererliteraryjournal.wordpress.com/2017/08/03/beautiful-public-california-libraries)
