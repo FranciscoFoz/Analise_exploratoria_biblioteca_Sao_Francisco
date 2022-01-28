@@ -15,7 +15,7 @@ Elaborado por Francico Foz
 
 Olá! 
 
-Neste repositório você encontrará o projeto do meu [artigo]() 
+Neste repositório você encontrará o projeto do meu [artigo](https://franciscofoz.medium.com/explorando-os-dados-das-bibliotecas-de-s%C3%A3o-francisco-36a904cb9c2a) 
 
 
 ## Resumo
